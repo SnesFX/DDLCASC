@@ -10,6 +10,6 @@ label act_selection:
             call ch0_main from _call_ch0_main
         "Act 2":
             call ch20_main from _call_ch20_main
-        "Act 3":
-            call ch30_main from _call_ch30_main
+        #"Act 3":
+        #    call ch30_main from _call_ch30_main
     return
